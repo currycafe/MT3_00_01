@@ -6,6 +6,7 @@ const char kWindowTitle[] = "GC2A_11_シラトリナオヤ_タイトル";
 static const int kRowHeight = 20;
 static const int kColumnWidth = 60;
 
+
 struct Vector3 {
 	float x;
 	float y;
